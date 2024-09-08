@@ -1,0 +1,9 @@
+{
+    "extends": "tslint:recommended",
+    "defaultSeverity": "error",
+    "rules": {
+        "no-console": false,
+        "variable-name": false
+    },
+    "jsRules": { }
+}
